@@ -3,7 +3,7 @@
   "manifest_version": 3,
   "name": "LowCortisol",
   "description": "Removes youtube algorithm slop",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/averagenumber/Youtube-Recomendation-Remover",
   "permissions": [
     "tabs",
     "*://*.youtube.com/*",

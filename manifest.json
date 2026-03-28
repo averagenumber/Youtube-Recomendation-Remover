@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "manifest_version": 3,
-  "name": "LowCortisol",
+  "name": "YT Focus",
   "description": "Removes youtube algorithm slop",
   "homepage_url": "https://github.com/averagenumber/Youtube-Recomendation-Remover",
   "permissions": [
@@ -26,7 +26,7 @@
   ],
   "browser_action": {
     "default_icon": "icons/yt.png",
-    "default_title": "LowCortisol",
+    "default_title": "YT Focus",
     "default_popup": "popup/main.html"
   }
 }

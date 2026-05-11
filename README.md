@@ -8,4 +8,5 @@ What YT Focus does:
 * Hides the recommended videos sidebar on watch pages
 
 Every feature can be toggled individually. You decide what you want to limit and what to keep.
-[<img src="https://img.shields.io/badge/Firefox-Add--on-orange?logo=firefox">](https://addons.mozilla.org/en-US/firefox/addon/yt-recommendation-remover/)
+## Install
+[Install from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/yt-recommendation-remover/)
